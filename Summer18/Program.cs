@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 //=====================================================================================
 //                                SUMMER '18
+//   The autumn branch- Started 22.10.18. Nice monday evening, moonlight and 4 degrees.
 //           
 //                            A Compiler project 
 //   Main starter uten argumenter for REPL
